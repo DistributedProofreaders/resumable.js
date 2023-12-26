@@ -1,3 +1,7 @@
+## Repo lineage
+
+This code was originally available at https://github.com/23/resumable.js and had a web page at http://www.resumablejs.com/. Sometime between early 2019 and the end of 2023 that repo -- indeed the whole GitHub organization -- and web page went away. A fork of the repo was found at https://github.com/QuanTemplate/resumable.js/. This repo is a fork of that one as Distributed Proofreaders bundles the `resumable.js` file into our releases and we wanted to retain the very useful documentation in this `README.md`. This repo is not currently being developed or maintained.
+
 ## What is Resumable.js
 
 Resumable.js is a JavaScript library providing multiple simultaneous, stable and resumable uploads via the [`HTML5 File API`](http://www.w3.org/TR/FileAPI/).
